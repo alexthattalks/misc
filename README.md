@@ -1,3 +1,11 @@
+# Electronic Dance Music
+
+NOTES: 
+
+I = Instrumental
+E = Explicit or suggestive lyrics
+
+
 | Note | Song                              | Artist                | Spotify   | Apple    | YouTube   |
 | ---- | --------------------------------- | --------------------- | --------- | -------- | --------- |
 |      | Ready To Love                     | KSHMR                 | [SPOT](https://open.spotify.com/track/0cvMWzztDy1wNQkBqae8w4?si=c83120c8b51f4db2)  | [APPL](https://music.apple.com/us/album/ready-to-love/1574566595?i=1574566842) | [YTBE](https://www.youtube.com/watch?v=VMx9q2okT6U)  |
